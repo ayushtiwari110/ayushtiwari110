@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
 <h3 align="center">Sophomore at IIT Bhubaneswar | Android Developer | AI & Web3 Enthusiast</h3>
 
-- 🔭 I’m currently working on [GC App](https://github.com/SamMathelete/GC-App)
+- 🔭 I’m currently working on MERN Stack
 
-- 🌱 I’m currently learning **React-Native, DSA practice**
+- 🌱 I’m currently learning **Backend, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushtiwari110](https://github.com/ayushtiwari110)
 
